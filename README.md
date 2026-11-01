@@ -20,14 +20,6 @@
 
 ## Models
 
-| Stage | Model | Output |
-|---|---|---|
-| Markers | YOLOv8n | Left and right marker boxes |
-| Hands | YOLOv8n | Hand boxes with thumb side |
-| Keypoints | HRNet-W32 | 19 joint centers per hand |
-| Alignment | Geometry | Joints rotated along the finger axis |
-| Boundaries | Small CNN | Left and right bone margins per joint |
-
 ## Interface
 
 <p align="justify">A local web application that runs on your own computer. A reviewer checks one stage at a time and can correct boxes, keypoints, rotation and bone margins. Each correction updates the later stages.</p>
