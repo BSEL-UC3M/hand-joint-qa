@@ -2,14 +2,17 @@
 
 # From Hand Radiographs to Standardized Joint Crops: A Modular and Automated Pipeline with Quality Assurance
 
+</div>
+
+> [!NOTE]
+> **Under review.** This repository accompanies a paper submitted to ISBI 2027. The interface, code and model weights will be available for download here upon acceptance.
+
+<div align="center">
+
 <img src="docs/assets/pipeline_overview.png" alt="Automated joint crop extraction pipeline" width="100%">
 
 </div>
 
----
-
-> [!NOTE]
-> **Under review.** This repository accompanies a 4-page short paper submitted to ISBI 2027. The interface, code and model weights will be available for download here upon acceptance.
 
 ## What it does
 
