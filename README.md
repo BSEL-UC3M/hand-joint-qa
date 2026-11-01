@@ -1,6 +1,6 @@
 <div align="center">
 
-#From Hand Radiographs to Standardized Joint Crops: A Modular and Automated Pipeline with Quality Assurance
+# From Hand Radiographs to Standardized Joint Crops: A Modular and Automated Pipeline with Quality Assurance
 
 </div>
 
