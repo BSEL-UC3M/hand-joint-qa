@@ -8,15 +8,11 @@
 
 ---
 
-> **Under review.** This repository accompanies a 4-page short paper submitted to
-> ISBI 2027. The interface, code and model weights will be available for
-> download here upon acceptance.
+<p align="justify"><b>Under review.</b> This repository accompanies a 4-page short paper submitted to ISBI 2027. The interface, code and model weights will be available for download here upon acceptance.</p>
 
 ## What it does
 
-A modular pipeline turns a raw hand radiograph into standardized, aligned
-224 x 224 crops of the 12 DIP, PIP and MCP joints of digits 2 to 5. It works on
-unilateral and bilateral radiographs, with or without laterality markers.
+<p align="justify">A modular pipeline turns a raw hand radiograph into standardized, aligned 224 x 224 crops of the 12 DIP, PIP and MCP joints of digits 2 to 5. It works on unilateral and bilateral radiographs, with or without laterality markers.</p>
 
 ## Models
 
@@ -30,6 +26,4 @@ unilateral and bilateral radiographs, with or without laterality markers.
 
 ## Interface
 
-A local web application that runs on your own computer. A reviewer checks one
-stage at a time and can correct boxes, keypoints, rotation and bone margins.
-Each correction updates the later stages.
+<p align="justify">A local web application that runs on your own computer. A reviewer checks one stage at a time and can correct boxes, keypoints, rotation and bone margins. Each correction updates the later stages.</p>
