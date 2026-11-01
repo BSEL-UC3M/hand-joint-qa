@@ -1,8 +1,6 @@
 <div align="center">
 
-# hand-joint-qa
-
-**From hand radiographs to standardized joint crops, with a local quality assurance interface.**
+# From hand radiographs to standardized joint crops, with a local quality assurance interface
 
 <img src="docs/assets/pipeline_overview.png" alt="Automated joint crop extraction pipeline" width="100%">
 
@@ -35,8 +33,3 @@ unilateral and bilateral radiographs, with or without laterality markers.
 A local web application that runs on your own computer. A reviewer checks one
 stage at a time and can correct boxes, keypoints, rotation and bone margins.
 Each correction updates the later stages.
-
-<div align="center">
-<img src="docs/assets/interface_home.png" alt="Interface start screen" width="45%">
-<img src="docs/assets/interface_joints.png" alt="Interface joints stage" width="50%">
-</div>
