@@ -18,7 +18,6 @@
 
 <p align="justify">A modular pipeline turns a raw hand radiograph into standardized, aligned 224 x 224 crops of the 12 DIP, PIP and MCP joints of digits 2 to 5. It works on unilateral and bilateral radiographs, with or without laterality markers.</p>
 
-## Models
 
 ## Interface
 
