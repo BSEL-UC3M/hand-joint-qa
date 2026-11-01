@@ -8,7 +8,8 @@
 
 ---
 
-<p align="justify"><b>Under review.</b> This repository accompanies a 4-page short paper submitted to ISBI 2027. The interface, code and model weights will be available for download here upon acceptance.</p>
+> [!NOTE]
+> **Under review.** This repository accompanies a 4-page short paper submitted to ISBI 2027. The interface, code and model weights will be available for download here upon acceptance.
 
 ## What it does
 
