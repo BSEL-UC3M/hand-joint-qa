@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="docs/assets/pipeline_overview.jpg" alt="Automated joint crop extraction pipeline" width="100%">
-
 # hand-joint-qa
 
 **From hand radiographs to standardized joint crops, with a local quality assurance interface.**
+
+<img src="docs/assets/pipeline_overview.png" alt="Automated joint crop extraction pipeline" width="100%">
 
 </div>
 
 ---
 
-> **Under review.** The interface, code and model weights will be available for
-> download in this repository upon acceptance of the paper.
+> **Under review.** This repository accompanies a 4-page short paper submitted to
+> ISBI 2027. The interface, code and model weights will be available for
+> download here upon acceptance.
 
 ## What it does
 
