@@ -1,6 +1,6 @@
 <div align="center">
 
-# From hand radiographs to standardized joint crops, with a local quality assurance interface
+# From Hand Radiographs to Standardized Joint Crops: A Modular and Automated Pipeline with Quality Assurance
 
 <img src="docs/assets/pipeline_overview.png" alt="Automated joint crop extraction pipeline" width="100%">
 
