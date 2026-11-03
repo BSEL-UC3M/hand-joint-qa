@@ -26,38 +26,48 @@
 
 ### 1. Markers
 
-<p align="center">
-<img src="docs/assets/interface/markers_1.png" alt="1. Markers stage" width="49%">
-<img src="docs/assets/interface/markers_2.png" alt="1. Markers stage, detail" width="49%">
-</p>
+<table>
+<tr>
+<td width="50%"><img src="docs/assets/interface/markers_1.png" alt="1. Markers stage"></td>
+<td width="50%"><img src="docs/assets/interface/markers_2.png" alt="1. Markers stage, detail"></td>
+</tr>
+</table>
 
 ### 2. Hands
 
-<p align="center">
-<img src="docs/assets/interface/hands_1.png" alt="2. Hands stage" width="49%">
-<img src="docs/assets/interface/hands_2.png" alt="2. Hands stage, detail" width="49%">
-</p>
+<table>
+<tr>
+<td width="50%"><img src="docs/assets/interface/hands_1.png" alt="2. Hands stage"></td>
+<td width="50%"><img src="docs/assets/interface/hands_2.png" alt="2. Hands stage, detail"></td>
+</tr>
+</table>
 
 ### 3. Joints
 
-<p align="center">
-<img src="docs/assets/interface/joints_1.png" alt="3. Joints stage" width="49%">
-<img src="docs/assets/interface/joints_2.png" alt="3. Joints stage, detail" width="49%">
-</p>
+<table>
+<tr>
+<td width="50%"><img src="docs/assets/interface/joints_1.png" alt="3. Joints stage"></td>
+<td width="50%"><img src="docs/assets/interface/joints_2.png" alt="3. Joints stage, detail"></td>
+</tr>
+</table>
 
 ### 4. Alignment
 
-<p align="center">
-<img src="docs/assets/interface/alignment_1.png" alt="4. Alignment stage" width="49%">
-<img src="docs/assets/interface/alignment_2.png" alt="4. Alignment stage, detail" width="49%">
-</p>
+<table>
+<tr>
+<td width="50%"><img src="docs/assets/interface/alignment_1.png" alt="4. Alignment stage"></td>
+<td width="50%"><img src="docs/assets/interface/alignment_2.png" alt="4. Alignment stage, detail"></td>
+</tr>
+</table>
 
 ### 5. Boundaries
 
-<p align="center">
-<img src="docs/assets/interface/boundaries_1.png" alt="5. Boundaries stage" width="49%">
-<img src="docs/assets/interface/boundaries_2.png" alt="5. Boundaries stage, detail" width="49%">
-</p>
+<table>
+<tr>
+<td width="50%"><img src="docs/assets/interface/boundaries_1.png" alt="5. Boundaries stage"></td>
+<td width="50%"><img src="docs/assets/interface/boundaries_2.png" alt="5. Boundaries stage, detail"></td>
+</tr>
+</table>
 
 ### 6. Download
 
