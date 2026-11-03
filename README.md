@@ -22,3 +22,45 @@
 ## Interface
 
 <p align="justify">A local web application that runs on your own computer. A reviewer checks one stage at a time and can correct boxes, keypoints, rotation and bone margins. Each correction updates the later stages.</p>
+
+
+### 1. Markers
+
+<p align="center">
+<img src="docs/assets/interface/markers_1.png" alt="1. Markers stage" width="49%">
+<img src="docs/assets/interface/markers_2.png" alt="1. Markers stage, detail" width="49%">
+</p>
+
+### 2. Hands
+
+<p align="center">
+<img src="docs/assets/interface/hands_1.png" alt="2. Hands stage" width="49%">
+<img src="docs/assets/interface/hands_2.png" alt="2. Hands stage, detail" width="49%">
+</p>
+
+### 3. Joints
+
+<p align="center">
+<img src="docs/assets/interface/joints_1.png" alt="3. Joints stage" width="49%">
+<img src="docs/assets/interface/joints_2.png" alt="3. Joints stage, detail" width="49%">
+</p>
+
+### 4. Alignment
+
+<p align="center">
+<img src="docs/assets/interface/alignment_1.png" alt="4. Alignment stage" width="49%">
+<img src="docs/assets/interface/alignment_2.png" alt="4. Alignment stage, detail" width="49%">
+</p>
+
+### 5. Boundaries
+
+<p align="center">
+<img src="docs/assets/interface/boundaries_1.png" alt="5. Boundaries stage" width="49%">
+<img src="docs/assets/interface/boundaries_2.png" alt="5. Boundaries stage, detail" width="49%">
+</p>
+
+### 6. Download
+
+<p align="center">
+<img src="docs/assets/interface/download.png" alt="Download the final joint crops" width="60%">
+</p>
